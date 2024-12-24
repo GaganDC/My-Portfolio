@@ -10,7 +10,7 @@ body {
 }
 
 a {
-  color: #AF9483;
+  color: #993808;
   transition: 0.5s;
 }
 
@@ -42,7 +42,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: block;
-  background: #AF9483;
+  background: #993808;
   color: #ffffff;
   width: 44px;
   height: 44px;
