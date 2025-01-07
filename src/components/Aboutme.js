@@ -15,7 +15,7 @@ export function Aboutme(){
                     <header class="section-header">
                         <h2>About Me</h2>
                     </header>
-                    <h3><strong>Name:</strong>Gagandeep</h3>
+                    <h3><strong>Name:</strong>C.Gagandeep</h3>
                     <h4><strong>Profession:</strong> Web Designer & Developer</h4>
                     I am C. Gagandeep, a student at Malla Reddy University,Hyderabad,originally from Jadcherla,Mahabubnagar,Telangana. With a strong passion for web design and development,I am currently working on two exciting projects: one focused on web evaluation and another on creating a resume builder.I thrive on creating responsive, visually engaging websites that deliver exceptional user experiences.Exploring modern web technologies and solving challenges creatively drives my enthusiasm.I am committed to continuous learning and aspire to contribute meaningfully to the ever-evolving field of web development
                     <br></br>
